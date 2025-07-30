@@ -24,11 +24,17 @@ The original SenseVid codebase was designed for **OpenCV 2.x**, which is now obs
 
 ---
 
-## 🧪 Compatibility
+## 💻 Compatibility Matrix
 
-- ✅ Tested with OpenCV 4.12
-- ✅ Compiles with GCC 13.3, CMake 3.30
-- ✅ Works with Cooja integration for vision-based simulation in academic setups
+| Component         | Version Tested       |
+| ----------------- | -------------------- |
+| OpenCV            | 4.12                 |
+| GCC               | 13.3                 |
+| CMake             | 3.30                 |
+| OS                | Modern Linux Distros |
+| Cooja Integration | ✅ Supported         |
+
+---
 
 ## 📁 Original License
 
