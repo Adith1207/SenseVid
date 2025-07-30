@@ -1,6 +1,8 @@
 # 🎥 SenseVid (Updated for OpenCV 4.x)
 
-This repository contains an updated version of the [SenseVid](http://w3.cran.univ-lorraine.fr/perso/moufida.maimour/SenseVid/sensevid.html) tool, modified to work with modern OpenCV (4.x) versions. SenseVid is a a new video transmission and evaluation tool that follows the same principle of EvalVid while being specific to WSN. SenseVid can help network researchers to assess network protocols targeted to video applications in WSN.
+An updated version of the [SenseVid](http://w3.cran.univ-lorraine.fr/perso/moufida.maimour/SenseVid/sensevid.html) tool, modernized to work with **OpenCV 4.x** and current Linux environments. SenseVid is a video transmission and evaluation tool for **Wireless Sensor Networks (WSNs)**, offering functionality similar to **EvalVid**, but tailored specifically for video-based WSN protocol assessment.
+
+---
 
 ## 📌 Why This Repo?
 
