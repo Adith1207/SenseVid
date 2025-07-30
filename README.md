@@ -42,6 +42,12 @@ This project retains the original **Academic Public License**. You are free to u
 
 > The full license is included in the [`LICENSE`](./LICENSE_SENSEVID) file.
 
+## 👥 Contributors
+
+|          [Adith](https://github.com/Adith1207)           |     [Karthik Saiharsh](https://github.com/karthik-saiharsh)     |
+| :------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="https://github.com/Adith1207.png" width="80"/> | <img src="https://github.com/karthik-saiharsh.png" width="80"/> |
+
 ## 🛠️ Building the Project
 
 ```bash
