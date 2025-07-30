@@ -6,7 +6,13 @@ An updated version of the [SenseVid](http://w3.cran.univ-lorraine.fr/perso/moufi
 
 ## 📌 Why This Repo?
 
-The original SenseVid source was last updated for OpenCV 2.x and uses outdated headers and constants. This version fixes those issues and ensures compatibility with OpenCV 4.x and modern Linux distributions.
+The original SenseVid codebase was designed for **OpenCV 2.x**, which is now obsolete. This repository:
+
+- Updates all legacy OpenCV references to be compatible with **OpenCV 4.x**
+- Enables modern compilation using **CMake 3.x** and **GCC 13+**
+- Ensures smooth operation on up-to-date Linux distributions
+
+---
 
 ## ✅ What's Changed
 
