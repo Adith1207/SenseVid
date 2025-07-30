@@ -14,12 +14,15 @@ The original SenseVid codebase was designed for **OpenCV 2.x**, which is now obs
 
 ---
 
-## ✅ What's Changed
+## ✅ Key Improvements
 
-- Replaced old OpenCV headers with current ones.
-- Replaced deprecated constants with modern equivalents (`cv::CAP_*`, etc.).
-- Added missing includes like `<iostream>` and applied `using namespace std;` where appropriate.
-- Minor code cleanups for compiler compatibility with g++ / cmake 3.x and OpenCV 4.x.
+- 🔄 Replaced deprecated OpenCV headers and constants (`CV_CAP_PROP_*` ➜ `cv::CAP_*`)
+- 🧠 Cleaned up includes (e.g., added `<iostream>`)
+- 🎯 Simplified namespace usage (`using namespace std;`)
+- 🧹 Code formatted for better readability and maintainability
+- 🧪 Verified compatibility with **Cooja** simulations
+
+---
 
 ## 🧪 Compatibility
 
